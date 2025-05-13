@@ -1,0 +1,14 @@
+C:\Users\erika\source\repos\SimpleMethod2\bin\Debug\net8.0\SimpleMethod2.exe
+C:\Users\erika\source\repos\SimpleMethod2\bin\Debug\net8.0\SimpleMethod2.deps.json
+C:\Users\erika\source\repos\SimpleMethod2\bin\Debug\net8.0\SimpleMethod2.runtimeconfig.json
+C:\Users\erika\source\repos\SimpleMethod2\bin\Debug\net8.0\SimpleMethod2.dll
+C:\Users\erika\source\repos\SimpleMethod2\bin\Debug\net8.0\SimpleMethod2.pdb
+C:\Users\erika\source\repos\SimpleMethod2\obj\Debug\net8.0\SimpleMethod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\source\repos\SimpleMethod2\obj\Debug\net8.0\SimpleMethod2.AssemblyInfoInputs.cache
+C:\Users\erika\source\repos\SimpleMethod2\obj\Debug\net8.0\SimpleMethod2.AssemblyInfo.cs
+C:\Users\erika\source\repos\SimpleMethod2\obj\Debug\net8.0\SimpleMethod2.csproj.CoreCompileInputs.cache
+C:\Users\erika\source\repos\SimpleMethod2\obj\Debug\net8.0\SimpleMethod2.dll
+C:\Users\erika\source\repos\SimpleMethod2\obj\Debug\net8.0\refint\SimpleMethod2.dll
+C:\Users\erika\source\repos\SimpleMethod2\obj\Debug\net8.0\SimpleMethod2.pdb
+C:\Users\erika\source\repos\SimpleMethod2\obj\Debug\net8.0\SimpleMethod2.genruntimeconfig.cache
+C:\Users\erika\source\repos\SimpleMethod2\obj\Debug\net8.0\ref\SimpleMethod2.dll
